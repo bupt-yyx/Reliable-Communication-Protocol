@@ -6,8 +6,8 @@
 > * 完成消息丢失的发现
 > * 进行丢失消息的重传
 ### 结果
->实验结果图  
-![image](https://user-images.githubusercontent.com/92367250/157680012-c1d42ddc-0e06-44c9-aa98-d2e8172ad70a.png)
+>实验部分截图  
+![image](https://user-images.githubusercontent.com/92367250/157681091-e44add94-dbb4-40b6-8e85-48d961017da5.png)
 ### 收获
 > * 进一步了解TCP协议
 > * 提升对于计算机网络传输层的理解
