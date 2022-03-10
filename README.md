@@ -1,19 +1,14 @@
 # the-simulation-of-TCP-by-UDP
-## 
-### 简介
-> * 编写CNN神经网络
-> * 神经网络的训练
-> * 进行手写数字的预测
+## 基于UDP协议的可靠传输协议（模拟TCP）
+### 功能
+> * tcp三次握手机制
+> * 实现消息的封装
+> * 完成消息丢失的发现
+> * 进行丢失消息的重传
 ### 结果
->数据量-training loss图  
->![plot of training loss](https://user-images.githubusercontent.com/92367250/157676923-00a3e8d1-7dbf-4f7c-af7b-34653baf16ca.png)  
->训练轮-training loss图  
->![loss and  accuary](https://user-images.githubusercontent.com/92367250/157677443-f4936310-74c6-4e21-9e6c-6df18298bd1e.png)  
->训练集情况  
->![data set condition (extra)](https://user-images.githubusercontent.com/92367250/157677489-fe85ccd3-b5c3-43aa-a732-5867b508f42d.png)  
 >实验结果图  
->![Result](https://user-images.githubusercontent.com/92367250/157677110-83131350-2111-4885-afa4-9e339a556c76.png)  
-
+![image](https://user-images.githubusercontent.com/92367250/157680012-c1d42ddc-0e06-44c9-aa98-d2e8172ad70a.png)
 ### 收获
-> * 加深CNN神经网络了解
-> * 初步实践了机器学习知识，完成机器学习项目
+> * 进一步了解TCP协议
+> * 提升对于计算机网络传输层的理解
+> * 加深了对于java中lambda表达式，以及现成的调用
